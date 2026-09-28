@@ -1,0 +1,75 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../app/generated/prisma"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id             String          @id @default(cuid())
+  email          String          @unique
+  name           String?
+  passwordHash   String
+  createdAt      DateTime        @default(now())
+  messages       Message[]
+  learningStates LearningState[]
+}
+
+enum MessageRole {
+  USER
+  ASSISTANT
+}
+
+model Message {
+  id        String      @id @default(cuid())
+  userId    String
+  user      User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  role      MessageRole
+  content   String      @db.Text
+  createdAt DateTime    @default(now())
+
+  @@index([userId])
+}
+
+// The AI's compact pedagogical memory — one row per (student, topic), so
+// switching topics never mixes progress. This is what the agent reads for
+// continuity instead of re-reading the whole conversation every turn; full
+// history stays in Message for the UI/database, this is LLM-facing state.
+// Written by the agent itself via the update_learning_state tool
+// (backend/ai/tools.py) — see backend/rag/README.md for the full design.
+model LearningState {
+  id     String @id @default(cuid())
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  topic          String // matches topic_finder's matched_title — the natural key alongside userId
+  currentSection String?
+  goal           String? @db.Text
+
+  // string[] each, kept short — concept names/short phrases, not prose
+  conceptsCovered       Json
+  conceptsUnderstood    Json
+  conceptsNotUnderstood Json
+  misconceptions        Json
+
+  currentLevel  String? // "foundation" | "core" | "application" | "advanced"
+  learningStage String? // see LearningStage-equivalent values in ai/prompts.py
+
+  lastQuestion String? @db.Text
+  lastProblem  String? @db.Text
+  nextStep     String? @db.Text
+  progress     String? @db.Text
+
+  // Which topic is "current" for this student — at most one true per user;
+  // switching topics flips this instead of merging state.
+  isActive Boolean @default(true)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([userId, topic])
+  @@index([userId, isActive])
+}
