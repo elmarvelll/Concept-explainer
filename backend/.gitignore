@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Source PDFs and the generated vector index are large binary data, not code
+resources/
+rag/qdrant_data/

@@ -1,0 +1,2415 @@
+{
+  "textbook": "_Charles_Alexander,_Matthew_Sadiku_Fundamentals_of_Electric_Circuits",
+  "chapters": [
+    {
+      "title": "Cover Page",
+      "number": null,
+      "level": 1,
+      "page": 0,
+      "children": []
+    },
+    {
+      "title": "Title Page",
+      "number": null,
+      "level": 1,
+      "page": 1,
+      "children": []
+    },
+    {
+      "title": "Copyright Page",
+      "number": null,
+      "level": 1,
+      "page": 2,
+      "children": []
+    },
+    {
+      "title": "Dedication",
+      "number": null,
+      "level": 1,
+      "page": 3,
+      "children": []
+    },
+    {
+      "title": "Contents",
+      "number": null,
+      "level": 1,
+      "page": 5,
+      "children": []
+    },
+    {
+      "title": "Preface",
+      "number": null,
+      "level": 1,
+      "page": 11,
+      "children": []
+    },
+    {
+      "title": "A Note to the Student",
+      "number": null,
+      "level": 1,
+      "page": 19,
+      "children": []
+    },
+    {
+      "title": "About the Authors",
+      "number": null,
+      "level": 1,
+      "page": 21,
+      "children": []
+    },
+    {
+      "title": "Half Title Page",
+      "number": null,
+      "level": 1,
+      "page": 23,
+      "children": []
+    },
+    {
+      "title": "PART 1 DC Circuits",
+      "number": null,
+      "level": 1,
+      "page": 24,
+      "children": [
+        {
+          "title": "Chapter 1 Basic Concepts",
+          "number": "1",
+          "level": 2,
+          "page": 25,
+          "children": [
+            {
+              "title": "1.1 Introduction",
+              "number": "1.1",
+              "level": 3,
+              "page": 26,
+              "children": []
+            },
+            {
+              "title": "1.2 Systems of Units",
+              "number": "1.2",
+              "level": 3,
+              "page": 27,
+              "children": []
+            },
+            {
+              "title": "1.3 Charge and Current",
+              "number": "1.3",
+              "level": 3,
+              "page": 27,
+              "children": []
+            },
+            {
+              "title": "1.4 Voltage",
+              "number": "1.4",
+              "level": 3,
+              "page": 31,
+              "children": []
+            },
+            {
+              "title": "1.5 Power and Energy",
+              "number": "1.5",
+              "level": 3,
+              "page": 32,
+              "children": []
+            },
+            {
+              "title": "1.6 Circuit Elements",
+              "number": "1.6",
+              "level": 3,
+              "page": 37,
+              "children": []
+            },
+            {
+              "title": "1.7 \u2020Applications",
+              "number": "1.7",
+              "level": 3,
+              "page": 39,
+              "children": [
+                {
+                  "title": "1.7.1 TV Picture Tube",
+                  "number": "1.7.1",
+                  "level": 4,
+                  "page": 39,
+                  "children": []
+                },
+                {
+                  "title": "1.7.2 Electricity Bills",
+                  "number": "1.7.2",
+                  "level": 4,
+                  "page": 41,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "1.8 \u2020Problem Solving",
+              "number": "1.8",
+              "level": 3,
+              "page": 42,
+              "children": []
+            },
+            {
+              "title": "1.9 Summary",
+              "number": "1.9",
+              "level": 3,
+              "page": 45,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 46,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 46,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 49,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 2 Basic Laws",
+          "number": "2",
+          "level": 2,
+          "page": 51,
+          "children": [
+            {
+              "title": "2.1 Introduction",
+              "number": "2.1",
+              "level": 3,
+              "page": 52,
+              "children": []
+            },
+            {
+              "title": "2.2 Ohm\u2019s Law",
+              "number": "2.2",
+              "level": 3,
+              "page": 52,
+              "children": []
+            },
+            {
+              "title": "2.3 \u2020Nodes, Branches, and Loops",
+              "number": "2.3",
+              "level": 3,
+              "page": 57,
+              "children": []
+            },
+            {
+              "title": "2.4 Kirchhoff\u2019s Laws",
+              "number": "2.4",
+              "level": 3,
+              "page": 59,
+              "children": []
+            },
+            {
+              "title": "2.5 Series Resistors and Voltage Division",
+              "number": "2.5",
+              "level": 3,
+              "page": 65,
+              "children": []
+            },
+            {
+              "title": "2.6 Parallel Resistors and Current Division",
+              "number": "2.6",
+              "level": 3,
+              "page": 67,
+              "children": []
+            },
+            {
+              "title": "2.7 \u2020Wye-Delta Transformations",
+              "number": "2.7",
+              "level": 3,
+              "page": 74,
+              "children": [
+                {
+                  "title": "Delta to Wye Conversion",
+                  "number": null,
+                  "level": 4,
+                  "page": 75,
+                  "children": []
+                },
+                {
+                  "title": "Wye to Delta Conversion",
+                  "number": null,
+                  "level": 4,
+                  "page": 76,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "2.8 \u2020Applications",
+              "number": "2.8",
+              "level": 3,
+              "page": 80,
+              "children": [
+                {
+                  "title": "2.8.1 Lighting Systems",
+                  "number": "2.8.1",
+                  "level": 4,
+                  "page": 80,
+                  "children": []
+                },
+                {
+                  "title": "2.8.2 Design of DC Meters",
+                  "number": "2.8.2",
+                  "level": 4,
+                  "page": 82,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "2.9 Summary",
+              "number": "2.9",
+              "level": 3,
+              "page": 86,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 88,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 89,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 100,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 3 Methods of Analysis",
+          "number": "3",
+          "level": 2,
+          "page": 103,
+          "children": [
+            {
+              "title": "3.1 Introduction",
+              "number": "3.1",
+              "level": 3,
+              "page": 104,
+              "children": []
+            },
+            {
+              "title": "3.2 Nodal Analysis",
+              "number": "3.2",
+              "level": 3,
+              "page": 104,
+              "children": []
+            },
+            {
+              "title": "3.3 Nodal Analysis with Voltage Sources",
+              "number": "3.3",
+              "level": 3,
+              "page": 110,
+              "children": []
+            },
+            {
+              "title": "3.4 Mesh Analysis",
+              "number": "3.4",
+              "level": 3,
+              "page": 115,
+              "children": []
+            },
+            {
+              "title": "3.5 Mesh Analysis with Current Sources",
+              "number": "3.5",
+              "level": 3,
+              "page": 120,
+              "children": []
+            },
+            {
+              "title": "3.6 \u2020Nodal and Mesh Analyses by Inspection",
+              "number": "3.6",
+              "level": 3,
+              "page": 122,
+              "children": []
+            },
+            {
+              "title": "3.7 Nodal Versus Mesh Analysis",
+              "number": "3.7",
+              "level": 3,
+              "page": 126,
+              "children": []
+            },
+            {
+              "title": "3.8 Circuit Analysis with PSpice",
+              "number": "3.8",
+              "level": 3,
+              "page": 127,
+              "children": []
+            },
+            {
+              "title": "3.9 \u2020Applications: DC Transistor Circuits",
+              "number": "3.9",
+              "level": 3,
+              "page": 129,
+              "children": []
+            },
+            {
+              "title": "3.10 Summary",
+              "number": "3.10",
+              "level": 3,
+              "page": 134,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 135,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 136,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problem",
+                  "number": null,
+                  "level": 4,
+                  "page": 148,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 4 Circuit Theorems",
+          "number": "4",
+          "level": 2,
+          "page": 149,
+          "children": [
+            {
+              "title": "4.1 Introduction",
+              "number": "4.1",
+              "level": 3,
+              "page": 149,
+              "children": []
+            },
+            {
+              "title": "4.2 Linearity Property",
+              "number": "4.2",
+              "level": 3,
+              "page": 149,
+              "children": []
+            },
+            {
+              "title": "4.3 Superposition",
+              "number": "4.3",
+              "level": 3,
+              "page": 152,
+              "children": []
+            },
+            {
+              "title": "4.4 Source Transformation",
+              "number": "4.4",
+              "level": 3,
+              "page": 157,
+              "children": []
+            },
+            {
+              "title": "4.5 Thevenin\u2019s Theorem",
+              "number": "4.5",
+              "level": 3,
+              "page": 161,
+              "children": []
+            },
+            {
+              "title": "4.6 Norton\u2019s Theorem",
+              "number": "4.6",
+              "level": 3,
+              "page": 167,
+              "children": []
+            },
+            {
+              "title": "4.7 \u2020Derivations of Thevenin\u2019s and Norton\u2019s Theorems",
+              "number": "4.7",
+              "level": 3,
+              "page": 171,
+              "children": []
+            },
+            {
+              "title": "4.8 Maximum Power Transfer",
+              "number": "4.8",
+              "level": 3,
+              "page": 172,
+              "children": []
+            },
+            {
+              "title": "4.9 Verifying Circuit Theorems with PSpice",
+              "number": "4.9",
+              "level": 3,
+              "page": 174,
+              "children": []
+            },
+            {
+              "title": "4.10 \u2020Applications",
+              "number": "4.10",
+              "level": 3,
+              "page": 177,
+              "children": [
+                {
+                  "title": "4.10.1 Source Modeling",
+                  "number": "4.10.1",
+                  "level": 4,
+                  "page": 177,
+                  "children": []
+                },
+                {
+                  "title": "4.10.2 Resistance Measurement",
+                  "number": "4.10.2",
+                  "level": 4,
+                  "page": 180,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "4.11 Summary",
+              "number": "4.11",
+              "level": 3,
+              "page": 182,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 183,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 184,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 195,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 5 Operational Amplifiers",
+          "number": "5",
+          "level": 2,
+          "page": 197,
+          "children": [
+            {
+              "title": "5.1 Introduction",
+              "number": "5.1",
+              "level": 3,
+              "page": 198,
+              "children": []
+            },
+            {
+              "title": "5.2 Operational Amplifiers",
+              "number": "5.2",
+              "level": 3,
+              "page": 198,
+              "children": []
+            },
+            {
+              "title": "5.3 Ideal Op Amp",
+              "number": "5.3",
+              "level": 3,
+              "page": 201,
+              "children": []
+            },
+            {
+              "title": "5.4 Inverting Amplifier",
+              "number": "5.4",
+              "level": 3,
+              "page": 203,
+              "children": []
+            },
+            {
+              "title": "5.5 Noninverting Amplifier",
+              "number": "5.5",
+              "level": 3,
+              "page": 205,
+              "children": []
+            },
+            {
+              "title": "5.6 Summing Amplifier",
+              "number": "5.6",
+              "level": 3,
+              "page": 207,
+              "children": []
+            },
+            {
+              "title": "5.7 Difference Amplifier",
+              "number": "5.7",
+              "level": 3,
+              "page": 209,
+              "children": []
+            },
+            {
+              "title": "5.8 Cascaded Op Amp Circuits",
+              "number": "5.8",
+              "level": 3,
+              "page": 213,
+              "children": []
+            },
+            {
+              "title": "5.9 Op Amp Circuit Analysis with PSpice",
+              "number": "5.9",
+              "level": 3,
+              "page": 216,
+              "children": []
+            },
+            {
+              "title": "5.10 \u2020Applications",
+              "number": "5.10",
+              "level": 3,
+              "page": 218,
+              "children": [
+                {
+                  "title": "5.10.1 Digital-to-Analog Converter",
+                  "number": "5.10.1",
+                  "level": 4,
+                  "page": 218,
+                  "children": []
+                },
+                {
+                  "title": "5.10.2 Instrumentation Amplifiers",
+                  "number": "5.10.2",
+                  "level": 4,
+                  "page": 220,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "5.11 Summary",
+              "number": "5.11",
+              "level": 3,
+              "page": 221,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 223,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 224,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 235,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 6 Capacitors and Inductors",
+          "number": "6",
+          "level": 2,
+          "page": 237,
+          "children": [
+            {
+              "title": "6.1 Introduction",
+              "number": "6.1",
+              "level": 3,
+              "page": 238,
+              "children": []
+            },
+            {
+              "title": "6.2 Capacitors",
+              "number": "6.2",
+              "level": 3,
+              "page": 238,
+              "children": []
+            },
+            {
+              "title": "6.3 Series and Parallel Capacitors",
+              "number": "6.3",
+              "level": 3,
+              "page": 244,
+              "children": []
+            },
+            {
+              "title": "6.4 Inductors",
+              "number": "6.4",
+              "level": 3,
+              "page": 248,
+              "children": []
+            },
+            {
+              "title": "6.5 Series and Parallel Inductors",
+              "number": "6.5",
+              "level": 3,
+              "page": 252,
+              "children": []
+            },
+            {
+              "title": "6.6 \u2020Applications",
+              "number": "6.6",
+              "level": 3,
+              "page": 255,
+              "children": [
+                {
+                  "title": "6.6.1 Integrator",
+                  "number": "6.6.1",
+                  "level": 4,
+                  "page": 256,
+                  "children": []
+                },
+                {
+                  "title": "6.6.2 Differentiator",
+                  "number": "6.6.2",
+                  "level": 4,
+                  "page": 257,
+                  "children": []
+                },
+                {
+                  "title": "6.6.3 Analog Computer",
+                  "number": "6.6.3",
+                  "level": 4,
+                  "page": 259,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "6.7 Summary",
+              "number": "6.7",
+              "level": 3,
+              "page": 262,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 263,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 264,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 273,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 7 First-Order Circuits",
+          "number": "7",
+          "level": 2,
+          "page": 275,
+          "children": [
+            {
+              "title": "7.1 Introduction",
+              "number": "7.1",
+              "level": 3,
+              "page": 276,
+              "children": []
+            },
+            {
+              "title": "7.2 The Source-Free RC Circuit",
+              "number": "7.2",
+              "level": 3,
+              "page": 276,
+              "children": []
+            },
+            {
+              "title": "7.3 The Source-Free RL Circuit",
+              "number": "7.3",
+              "level": 3,
+              "page": 281,
+              "children": []
+            },
+            {
+              "title": "7.4 Singularity Functions",
+              "number": "7.4",
+              "level": 3,
+              "page": 287,
+              "children": []
+            },
+            {
+              "title": "7.5 Step Response of an RC Circuit",
+              "number": "7.5",
+              "level": 3,
+              "page": 295,
+              "children": []
+            },
+            {
+              "title": "7.6 Step Response of an RL Circuit",
+              "number": "7.6",
+              "level": 3,
+              "page": 302,
+              "children": []
+            },
+            {
+              "title": "7.7 \u2020First-Order Op Amp Circuits",
+              "number": "7.7",
+              "level": 3,
+              "page": 306,
+              "children": []
+            },
+            {
+              "title": "7.8 Transient Analysis with PSpice",
+              "number": "7.8",
+              "level": 3,
+              "page": 311,
+              "children": []
+            },
+            {
+              "title": "7.9 \u2020Applications",
+              "number": "7.9",
+              "level": 3,
+              "page": 315,
+              "children": [
+                {
+                  "title": "7.9.1 Delay Circuits",
+                  "number": "7.9.1",
+                  "level": 4,
+                  "page": 315,
+                  "children": []
+                },
+                {
+                  "title": "7.9.2 Photoflash Unit",
+                  "number": "7.9.2",
+                  "level": 4,
+                  "page": 317,
+                  "children": []
+                },
+                {
+                  "title": "7.9.3 Relay Circuits",
+                  "number": "7.9.3",
+                  "level": 4,
+                  "page": 318,
+                  "children": []
+                },
+                {
+                  "title": "7.9.4 Automobile Ignition Circuit",
+                  "number": "7.9.4",
+                  "level": 4,
+                  "page": 320,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "7.10 Summary",
+              "number": "7.10",
+              "level": 3,
+              "page": 321,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 322,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 323,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 333,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 8 Second-Order Circuits",
+          "number": "8",
+          "level": 2,
+          "page": 335,
+          "children": [
+            {
+              "title": "8.1 Introduction",
+              "number": "8.1",
+              "level": 3,
+              "page": 336,
+              "children": []
+            },
+            {
+              "title": "8.2 Finding Initial and Final Values",
+              "number": "8.2",
+              "level": 3,
+              "page": 336,
+              "children": []
+            },
+            {
+              "title": "8.3 The Source-Free Series RLC Circuit",
+              "number": "8.3",
+              "level": 3,
+              "page": 341,
+              "children": []
+            },
+            {
+              "title": "8.4 The Source-Free Parallel RLC Circuit",
+              "number": "8.4",
+              "level": 3,
+              "page": 348,
+              "children": []
+            },
+            {
+              "title": "8.5 Step Response of a Series RLC Circuit",
+              "number": "8.5",
+              "level": 3,
+              "page": 353,
+              "children": []
+            },
+            {
+              "title": "8.6 Step Response of a Parallel RLC Circuit",
+              "number": "8.6",
+              "level": 3,
+              "page": 358,
+              "children": []
+            },
+            {
+              "title": "8.7 General Second-Order Circuits",
+              "number": "8.7",
+              "level": 3,
+              "page": 361,
+              "children": []
+            },
+            {
+              "title": "8.8 Second-Order Op Amp Circuits",
+              "number": "8.8",
+              "level": 3,
+              "page": 366,
+              "children": []
+            },
+            {
+              "title": "8.9 PSpice Analysis of RLC Circuits",
+              "number": "8.9",
+              "level": 3,
+              "page": 368,
+              "children": []
+            },
+            {
+              "title": "8.10 \u2020Duality",
+              "number": "8.10",
+              "level": 3,
+              "page": 372,
+              "children": []
+            },
+            {
+              "title": "8.11 \u2020Applications",
+              "number": "8.11",
+              "level": 3,
+              "page": 375,
+              "children": [
+                {
+                  "title": "8.11.1 Automobile Ignition System",
+                  "number": "8.11.1",
+                  "level": 4,
+                  "page": 375,
+                  "children": []
+                },
+                {
+                  "title": "8.11.2 Smoothing Circuits",
+                  "number": "8.11.2",
+                  "level": 4,
+                  "page": 377,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "8.12 Summary",
+              "number": "8.12",
+              "level": 3,
+              "page": 378,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 379,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 380,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 389,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PART 2 AC Circuits",
+      "number": null,
+      "level": 1,
+      "page": 390,
+      "children": [
+        {
+          "title": "Chapter 9 Sinusoids and Phasors",
+          "number": "9",
+          "level": 2,
+          "page": 391,
+          "children": [
+            {
+              "title": "9.1 Introduction",
+              "number": "9.1",
+              "level": 3,
+              "page": 392,
+              "children": []
+            },
+            {
+              "title": "9.2 Sinusoids",
+              "number": "9.2",
+              "level": 3,
+              "page": 393,
+              "children": []
+            },
+            {
+              "title": "9.3 Phasors",
+              "number": "9.3",
+              "level": 3,
+              "page": 398,
+              "children": []
+            },
+            {
+              "title": "9.4 Phasor Relationships for Circuit Elements",
+              "number": "9.4",
+              "level": 3,
+              "page": 407,
+              "children": []
+            },
+            {
+              "title": "9.5 Impedance and Admittance",
+              "number": "9.5",
+              "level": 3,
+              "page": 409,
+              "children": []
+            },
+            {
+              "title": "9.6 \u2020Kirchhoff\u2019s Laws in the Frequency Domain",
+              "number": "9.6",
+              "level": 3,
+              "page": 411,
+              "children": []
+            },
+            {
+              "title": "9.7 Impedance Combinations",
+              "number": "9.7",
+              "level": 3,
+              "page": 412,
+              "children": []
+            },
+            {
+              "title": "9.8 \u2020Applications",
+              "number": "9.8",
+              "level": 3,
+              "page": 418,
+              "children": [
+                {
+                  "title": "9.8.1 Phase-Shifters",
+                  "number": "9.8.1",
+                  "level": 4,
+                  "page": 418,
+                  "children": []
+                },
+                {
+                  "title": "9.8.2 AC Bridges",
+                  "number": "9.8.2",
+                  "level": 4,
+                  "page": 420,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "9.9 Summary",
+              "number": "9.9",
+              "level": 3,
+              "page": 424,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 425,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 425,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 433,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 10 Sinusoidal Steady-State Analysis",
+          "number": "10",
+          "level": 2,
+          "page": 434,
+          "children": [
+            {
+              "title": "10.1 Introduction",
+              "number": "10.1",
+              "level": 3,
+              "page": 436,
+              "children": []
+            },
+            {
+              "title": "10.2 Nodal Analysis",
+              "number": "10.2",
+              "level": 3,
+              "page": 436,
+              "children": []
+            },
+            {
+              "title": "10.3 Mesh Analysis",
+              "number": "10.3",
+              "level": 3,
+              "page": 439,
+              "children": []
+            },
+            {
+              "title": "10.4 Superposition Theorem",
+              "number": "10.4",
+              "level": 3,
+              "page": 443,
+              "children": []
+            },
+            {
+              "title": "10.5 Source Transformation",
+              "number": "10.5",
+              "level": 3,
+              "page": 446,
+              "children": []
+            },
+            {
+              "title": "10.6 Thevenin and Norton Equivalent Circuits",
+              "number": "10.6",
+              "level": 3,
+              "page": 448,
+              "children": []
+            },
+            {
+              "title": "10.7 Op Amp AC Circuits",
+              "number": "10.7",
+              "level": 3,
+              "page": 453,
+              "children": []
+            },
+            {
+              "title": "10.8 AC Analysis Using PSpice",
+              "number": "10.8",
+              "level": 3,
+              "page": 454,
+              "children": []
+            },
+            {
+              "title": "10.9 \u2020Applications",
+              "number": "10.9",
+              "level": 3,
+              "page": 459,
+              "children": [
+                {
+                  "title": "10.9.1 Capacitance Multiplier",
+                  "number": "10.9.1",
+                  "level": 4,
+                  "page": 459,
+                  "children": []
+                },
+                {
+                  "title": "10.9.2 Oscillators",
+                  "number": "10.9.2",
+                  "level": 4,
+                  "page": 461,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "10.10 Summary",
+              "number": "10.10",
+              "level": 3,
+              "page": 463,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 463,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 465,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 11 AC Power Analysis",
+          "number": "11",
+          "level": 2,
+          "page": 479,
+          "children": [
+            {
+              "title": "11.1 Introduction",
+              "number": "11.1",
+              "level": 3,
+              "page": 480,
+              "children": []
+            },
+            {
+              "title": "11.2 Instantaneous and Average Power",
+              "number": "11.2",
+              "level": 3,
+              "page": 480,
+              "children": []
+            },
+            {
+              "title": "11.3 Maximum Average Power Transfer",
+              "number": "11.3",
+              "level": 3,
+              "page": 486,
+              "children": []
+            },
+            {
+              "title": "11.4 Effective or RMS Value",
+              "number": "11.4",
+              "level": 3,
+              "page": 489,
+              "children": []
+            },
+            {
+              "title": "11.5 Apparent Power and Power Factor",
+              "number": "11.5",
+              "level": 3,
+              "page": 492,
+              "children": []
+            },
+            {
+              "title": "11.6 Complex Power",
+              "number": "11.6",
+              "level": 3,
+              "page": 495,
+              "children": []
+            },
+            {
+              "title": "11.7 \u2020Conservation of AC Power",
+              "number": "11.7",
+              "level": 3,
+              "page": 499,
+              "children": []
+            },
+            {
+              "title": "11.8 Power Factor Correction",
+              "number": "11.8",
+              "level": 3,
+              "page": 503,
+              "children": []
+            },
+            {
+              "title": "11.9 \u2020Applications",
+              "number": "11.9",
+              "level": 3,
+              "page": 505,
+              "children": [
+                {
+                  "title": "11.9.1 Power Measurement",
+                  "number": "11.9.1",
+                  "level": 4,
+                  "page": 505,
+                  "children": []
+                },
+                {
+                  "title": "11.9.2 Electricity Consumption Cost",
+                  "number": "11.9.2",
+                  "level": 4,
+                  "page": 508,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "11.10 Summary",
+              "number": "11.10",
+              "level": 3,
+              "page": 510,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 512,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 512,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 522,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 12 Three-Phase Circuits",
+          "number": "12",
+          "level": 2,
+          "page": 525,
+          "children": [
+            {
+              "title": "12.1 Introduction",
+              "number": "12.1",
+              "level": 3,
+              "page": 526,
+              "children": []
+            },
+            {
+              "title": "12.2 Balanced Three-Phase Voltages",
+              "number": "12.2",
+              "level": 3,
+              "page": 527,
+              "children": []
+            },
+            {
+              "title": "12.3 Balanced Wye-Wye Connection",
+              "number": "12.3",
+              "level": 3,
+              "page": 531,
+              "children": []
+            },
+            {
+              "title": "12.4 Balanced Wye-Delta Connection",
+              "number": "12.4",
+              "level": 3,
+              "page": 534,
+              "children": []
+            },
+            {
+              "title": "12.5 Balanced Delta-Delta Connection",
+              "number": "12.5",
+              "level": 3,
+              "page": 536,
+              "children": []
+            },
+            {
+              "title": "12.6 Balanced Delta-Wye Connection",
+              "number": "12.6",
+              "level": 3,
+              "page": 538,
+              "children": []
+            },
+            {
+              "title": "12.7 Power in a Balanced System",
+              "number": "12.7",
+              "level": 3,
+              "page": 541,
+              "children": []
+            },
+            {
+              "title": "12.8 \u2020Unbalanced Three-Phase Systems",
+              "number": "12.8",
+              "level": 3,
+              "page": 547,
+              "children": []
+            },
+            {
+              "title": "12.9 PSpice for Three-Phase Circuits",
+              "number": "12.9",
+              "level": 3,
+              "page": 551,
+              "children": []
+            },
+            {
+              "title": "12.10 \u2020Applications",
+              "number": "12.10",
+              "level": 3,
+              "page": 556,
+              "children": [
+                {
+                  "title": "12.10.1 Three-Phase Power Measurement",
+                  "number": "12.10.1",
+                  "level": 4,
+                  "page": 557,
+                  "children": []
+                },
+                {
+                  "title": "12.10.2 Residential Wiring",
+                  "number": "12.10.2",
+                  "level": 4,
+                  "page": 562,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "12.11 Summary",
+              "number": "12.11",
+              "level": 3,
+              "page": 565,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 565,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 566,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 575,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 13 Magnetically Coupled Circuits",
+          "number": "13",
+          "level": 2,
+          "page": 577,
+          "children": [
+            {
+              "title": "13.1 Introduction",
+              "number": "13.1",
+              "level": 3,
+              "page": 578,
+              "children": []
+            },
+            {
+              "title": "13.2 Mutual Inductance",
+              "number": "13.2",
+              "level": 3,
+              "page": 578,
+              "children": []
+            },
+            {
+              "title": "13.3 Energy in a Coupled Circuit",
+              "number": "13.3",
+              "level": 3,
+              "page": 586,
+              "children": []
+            },
+            {
+              "title": "13.4 Linear Transformers",
+              "number": "13.4",
+              "level": 3,
+              "page": 589,
+              "children": []
+            },
+            {
+              "title": "13.5 Ideal Transformers",
+              "number": "13.5",
+              "level": 3,
+              "page": 595,
+              "children": []
+            },
+            {
+              "title": "13.6 Ideal Autotransformers",
+              "number": "13.6",
+              "level": 3,
+              "page": 603,
+              "children": []
+            },
+            {
+              "title": "13.7 \u2020Three-Phase Transformers",
+              "number": "13.7",
+              "level": 3,
+              "page": 606,
+              "children": []
+            },
+            {
+              "title": "13.8 PSpice Analysis of Magnetically Coupled Circuits",
+              "number": "13.8",
+              "level": 3,
+              "page": 608,
+              "children": []
+            },
+            {
+              "title": "13.9 \u2020Applications",
+              "number": "13.9",
+              "level": 3,
+              "page": 613,
+              "children": [
+                {
+                  "title": "13.9.1 Transformer as an Isolation Device",
+                  "number": "13.9.1",
+                  "level": 4,
+                  "page": 614,
+                  "children": []
+                },
+                {
+                  "title": "13.9.2 Transformer as a Matching Device",
+                  "number": "13.9.2",
+                  "level": 4,
+                  "page": 615,
+                  "children": []
+                },
+                {
+                  "title": "13.9.3 Power Distribution",
+                  "number": "13.9.3",
+                  "level": 4,
+                  "page": 617,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "13.10 Summary",
+              "number": "13.10",
+              "level": 3,
+              "page": 619,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 620,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 621,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 633,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 14 Frequency Response",
+          "number": "14",
+          "level": 2,
+          "page": 635,
+          "children": [
+            {
+              "title": "14.1 Introduction",
+              "number": "14.1",
+              "level": 3,
+              "page": 636,
+              "children": []
+            },
+            {
+              "title": "14.2 Transfer Function",
+              "number": "14.2",
+              "level": 3,
+              "page": 636,
+              "children": []
+            },
+            {
+              "title": "14.3 \u2020The Decibel Scale",
+              "number": "14.3",
+              "level": 3,
+              "page": 639,
+              "children": []
+            },
+            {
+              "title": "14.4 Bode Plots",
+              "number": "14.4",
+              "level": 3,
+              "page": 641,
+              "children": []
+            },
+            {
+              "title": "14.5 Series Resonance",
+              "number": "14.5",
+              "level": 3,
+              "page": 651,
+              "children": []
+            },
+            {
+              "title": "14.6 Parallel Resonance",
+              "number": "14.6",
+              "level": 3,
+              "page": 656,
+              "children": []
+            },
+            {
+              "title": "14.7 Passive Filters",
+              "number": "14.7",
+              "level": 3,
+              "page": 659,
+              "children": [
+                {
+                  "title": "14.7.1 Lowpass Filter",
+                  "number": "14.7.1",
+                  "level": 4,
+                  "page": 660,
+                  "children": []
+                },
+                {
+                  "title": "14.7.2 Highpass Filter",
+                  "number": "14.7.2",
+                  "level": 4,
+                  "page": 661,
+                  "children": []
+                },
+                {
+                  "title": "14.7.3 Bandpass Filter",
+                  "number": "14.7.3",
+                  "level": 4,
+                  "page": 661,
+                  "children": []
+                },
+                {
+                  "title": "14.7.4 Bandstop Filter",
+                  "number": "14.7.4",
+                  "level": 4,
+                  "page": 662,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "14.8 Active Filters",
+              "number": "14.8",
+              "level": 3,
+              "page": 664,
+              "children": [
+                {
+                  "title": "14.8.1 First-Order Lowpass Filter",
+                  "number": "14.8.1",
+                  "level": 4,
+                  "page": 665,
+                  "children": []
+                },
+                {
+                  "title": "14.8.2 First-Order Highpass Filter",
+                  "number": "14.8.2",
+                  "level": 4,
+                  "page": 665,
+                  "children": []
+                },
+                {
+                  "title": "14.8.3 Bandpass Filter",
+                  "number": "14.8.3",
+                  "level": 4,
+                  "page": 665,
+                  "children": []
+                },
+                {
+                  "title": "14.8.4 Bandreject (or Notch) Filter",
+                  "number": "14.8.4",
+                  "level": 4,
+                  "page": 667,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "14.9 Scaling",
+              "number": "14.9",
+              "level": 3,
+              "page": 670,
+              "children": [
+                {
+                  "title": "14.9.1 Magnitude Scaling",
+                  "number": "14.9.1",
+                  "level": 4,
+                  "page": 671,
+                  "children": []
+                },
+                {
+                  "title": "14.9.2 Frequency Scaling",
+                  "number": "14.9.2",
+                  "level": 4,
+                  "page": 672,
+                  "children": []
+                },
+                {
+                  "title": "14.9.3 Magnitude and Frequency Scaling",
+                  "number": "14.9.3",
+                  "level": 4,
+                  "page": 672,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "14.10 Frequency Response Using PSpice",
+              "number": "14.10",
+              "level": 3,
+              "page": 674,
+              "children": []
+            },
+            {
+              "title": "14.11 Computation Using MATLAB",
+              "number": "14.11",
+              "level": 3,
+              "page": 677,
+              "children": []
+            },
+            {
+              "title": "14.12 \u2020Applications",
+              "number": "14.12",
+              "level": 3,
+              "page": 679,
+              "children": [
+                {
+                  "title": "14.12.1 Radio Receiver",
+                  "number": "14.12.1",
+                  "level": 4,
+                  "page": 679,
+                  "children": []
+                },
+                {
+                  "title": "14.12.2 Touch-Tone Telephone",
+                  "number": "14.12.2",
+                  "level": 4,
+                  "page": 682,
+                  "children": []
+                },
+                {
+                  "title": "14.12.3 Crossover Network",
+                  "number": "14.12.3",
+                  "level": 4,
+                  "page": 683,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "14.13 Summary",
+              "number": "14.13",
+              "level": 3,
+              "page": 685,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 686,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 687,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 695,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PART 3 Advanced Circuit Analysis",
+      "number": null,
+      "level": 1,
+      "page": 696,
+      "children": [
+        {
+          "title": "Chapter 15 Introduction to the Laplace Transform",
+          "number": "15",
+          "level": 2,
+          "page": 697,
+          "children": [
+            {
+              "title": "15.1 Introduction",
+              "number": "15.1",
+              "level": 3,
+              "page": 698,
+              "children": []
+            },
+            {
+              "title": "15.2 Definition of the Laplace Transform",
+              "number": "15.2",
+              "level": 3,
+              "page": 699,
+              "children": []
+            },
+            {
+              "title": "15.3 Properties of the Laplace Transform",
+              "number": "15.3",
+              "level": 3,
+              "page": 701,
+              "children": []
+            },
+            {
+              "title": "15.4 The Inverse Laplace Transform",
+              "number": "15.4",
+              "level": 3,
+              "page": 712,
+              "children": [
+                {
+                  "title": "15.4.1 Simple Poles",
+                  "number": "15.4.1",
+                  "level": 4,
+                  "page": 712,
+                  "children": []
+                },
+                {
+                  "title": "15.4.2 Repeated Poles",
+                  "number": "15.4.2",
+                  "level": 4,
+                  "page": 713,
+                  "children": []
+                },
+                {
+                  "title": "15.4.3 Complex Poles",
+                  "number": "15.4.3",
+                  "level": 4,
+                  "page": 714,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "15.5 The Convolution Integral",
+              "number": "15.5",
+              "level": 3,
+              "page": 719,
+              "children": []
+            },
+            {
+              "title": "15.6 \u2020Application to Integrodifferential Equations",
+              "number": "15.6",
+              "level": 3,
+              "page": 727,
+              "children": []
+            },
+            {
+              "title": "15.7 Summary",
+              "number": "15.7",
+              "level": 3,
+              "page": 730,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 730,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 731,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 16 Applications of the Laplace Transform",
+          "number": "16",
+          "level": 2,
+          "page": 737,
+          "children": [
+            {
+              "title": "16.1 Introduction",
+              "number": "16.1",
+              "level": 3,
+              "page": 738,
+              "children": []
+            },
+            {
+              "title": "16.2 Circuit Element Models",
+              "number": "16.2",
+              "level": 3,
+              "page": 738,
+              "children": []
+            },
+            {
+              "title": "16.3 Circuit Analysis",
+              "number": "16.3",
+              "level": 3,
+              "page": 744,
+              "children": []
+            },
+            {
+              "title": "16.4 Transfer Functions",
+              "number": "16.4",
+              "level": 3,
+              "page": 748,
+              "children": []
+            },
+            {
+              "title": "16.5 State Variables",
+              "number": "16.5",
+              "level": 3,
+              "page": 752,
+              "children": []
+            },
+            {
+              "title": "16.6 \u2020Applications",
+              "number": "16.6",
+              "level": 3,
+              "page": 759,
+              "children": [
+                {
+                  "title": "16.6.1 Network Stability",
+                  "number": "16.6.1",
+                  "level": 4,
+                  "page": 759,
+                  "children": []
+                },
+                {
+                  "title": "16.6.2 Network Synthesis",
+                  "number": "16.6.2",
+                  "level": 4,
+                  "page": 762,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "16.7 Summary",
+              "number": "16.7",
+              "level": 3,
+              "page": 767,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 768,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 769,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 780,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 17 The Fourier Series",
+          "number": "17",
+          "level": 2,
+          "page": 780,
+          "children": [
+            {
+              "title": "17.1 Introduction",
+              "number": "17.1",
+              "level": 3,
+              "page": 782,
+              "children": []
+            },
+            {
+              "title": "17.2 Trigonometric Fourier Series",
+              "number": "17.2",
+              "level": 3,
+              "page": 782,
+              "children": []
+            },
+            {
+              "title": "17.3 Symmetry Considerations",
+              "number": "17.3",
+              "level": 3,
+              "page": 790,
+              "children": [
+                {
+                  "title": "17.3.1 Even Symmetry",
+                  "number": "17.3.1",
+                  "level": 4,
+                  "page": 790,
+                  "children": []
+                },
+                {
+                  "title": "17.3.2 Odd Symmetry",
+                  "number": "17.3.2",
+                  "level": 4,
+                  "page": 792,
+                  "children": []
+                },
+                {
+                  "title": "17.3.3 Half-Wave Symmetry",
+                  "number": "17.3.3",
+                  "level": 4,
+                  "page": 794,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "17.4 Circuit Applications",
+              "number": "17.4",
+              "level": 3,
+              "page": 800,
+              "children": []
+            },
+            {
+              "title": "17.5 Average Power and RMS Values",
+              "number": "17.5",
+              "level": 3,
+              "page": 804,
+              "children": []
+            },
+            {
+              "title": "17.6 Exponential Fourier Series",
+              "number": "17.6",
+              "level": 3,
+              "page": 807,
+              "children": []
+            },
+            {
+              "title": "17.7 Fourier Analysis with PSpice",
+              "number": "17.7",
+              "level": 3,
+              "page": 813,
+              "children": [
+                {
+                  "title": "17.7.1 Discrete Fourier Transform",
+                  "number": "17.7.1",
+                  "level": 4,
+                  "page": 814,
+                  "children": []
+                },
+                {
+                  "title": "17.7.2 Fast Fourier Transform",
+                  "number": "17.7.2",
+                  "level": 4,
+                  "page": 814,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "17.8 \u2020Applications",
+              "number": "17.8",
+              "level": 3,
+              "page": 819,
+              "children": [
+                {
+                  "title": "17.8.1 Spectrum Analyzers",
+                  "number": "17.8.1",
+                  "level": 4,
+                  "page": 819,
+                  "children": []
+                },
+                {
+                  "title": "17.8.2 Filters",
+                  "number": "17.8.2",
+                  "level": 4,
+                  "page": 819,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "17.9 Summary",
+              "number": "17.9",
+              "level": 3,
+              "page": 822,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 824,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 824,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 833,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 18 Fourier Transform",
+          "number": "18",
+          "level": 2,
+          "page": 835,
+          "children": [
+            {
+              "title": "18.1 Introduction",
+              "number": "18.1",
+              "level": 3,
+              "page": 836,
+              "children": []
+            },
+            {
+              "title": "18.2 Definition of the Fourier Transform",
+              "number": "18.2",
+              "level": 3,
+              "page": 836,
+              "children": []
+            },
+            {
+              "title": "18.3 Properties of the Fourier Transform",
+              "number": "18.3",
+              "level": 3,
+              "page": 842,
+              "children": []
+            },
+            {
+              "title": "18.4 Circuit Applications",
+              "number": "18.4",
+              "level": 3,
+              "page": 855,
+              "children": []
+            },
+            {
+              "title": "18.5 Parseval\u2019s Theorem",
+              "number": "18.5",
+              "level": 3,
+              "page": 858,
+              "children": []
+            },
+            {
+              "title": "18.6 Comparing the Fourier and Laplace Transforms",
+              "number": "18.6",
+              "level": 3,
+              "page": 861,
+              "children": []
+            },
+            {
+              "title": "18.7 \u2020Applications",
+              "number": "18.7",
+              "level": 3,
+              "page": 862,
+              "children": [
+                {
+                  "title": "18.7.1 Amplitude Modulation",
+                  "number": "18.7.1",
+                  "level": 4,
+                  "page": 862,
+                  "children": []
+                },
+                {
+                  "title": "18.7.2 Sampling",
+                  "number": "18.7.2",
+                  "level": 4,
+                  "page": 864,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "18.8 Summary",
+              "number": "18.8",
+              "level": 3,
+              "page": 865,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 866,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 867,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 873,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chapter 19 Two-Port Networks",
+          "number": "19",
+          "level": 2,
+          "page": 875,
+          "children": [
+            {
+              "title": "19.1 Introduction",
+              "number": "19.1",
+              "level": 3,
+              "page": 876,
+              "children": []
+            },
+            {
+              "title": "19.2 Impedance Parameters",
+              "number": "19.2",
+              "level": 3,
+              "page": 876,
+              "children": []
+            },
+            {
+              "title": "19.3 Admittance Parameters",
+              "number": "19.3",
+              "level": 3,
+              "page": 881,
+              "children": []
+            },
+            {
+              "title": "19.4 Hybrid Parameters",
+              "number": "19.4",
+              "level": 3,
+              "page": 884,
+              "children": []
+            },
+            {
+              "title": "19.5 Transmission Parameters",
+              "number": "19.5",
+              "level": 3,
+              "page": 889,
+              "children": []
+            },
+            {
+              "title": "19.6 \u2020Relationships Between Parameters",
+              "number": "19.6",
+              "level": 3,
+              "page": 894,
+              "children": []
+            },
+            {
+              "title": "19.7 Interconnection of Networks",
+              "number": "19.7",
+              "level": 3,
+              "page": 897,
+              "children": []
+            },
+            {
+              "title": "19.8 Computing Two-Port Parameters Using PSpice",
+              "number": "19.8",
+              "level": 3,
+              "page": 903,
+              "children": []
+            },
+            {
+              "title": "19.9 \u2020Applications",
+              "number": "19.9",
+              "level": 3,
+              "page": 906,
+              "children": [
+                {
+                  "title": "19.9.1 Transistor Circuits",
+                  "number": "19.9.1",
+                  "level": 4,
+                  "page": 906,
+                  "children": []
+                },
+                {
+                  "title": "19.9.2 Ladder Network Synthesis",
+                  "number": "19.9.2",
+                  "level": 4,
+                  "page": 911,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "title": "19.10 Summary",
+              "number": "19.10",
+              "level": 3,
+              "page": 915,
+              "children": [
+                {
+                  "title": "Review Questions",
+                  "number": null,
+                  "level": 4,
+                  "page": 916,
+                  "children": []
+                },
+                {
+                  "title": "Problems",
+                  "number": null,
+                  "level": 4,
+                  "page": 916,
+                  "children": []
+                },
+                {
+                  "title": "Comprehensive Problem",
+                  "number": null,
+                  "level": 4,
+                  "page": 926,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Appendix A Simultaneous Equations and Matrix Inversion",
+      "number": null,
+      "level": 1,
+      "page": 928,
+      "children": []
+    },
+    {
+      "title": "Appendix B Complex Numbers",
+      "number": null,
+      "level": 1,
+      "page": 937,
+      "children": []
+    },
+    {
+      "title": "Appendix C Mathematical Formulas",
+      "number": null,
+      "level": 1,
+      "page": 944,
+      "children": []
+    },
+    {
+      "title": "Appendix D Answers to Odd-Numbered Problems",
+      "number": null,
+      "level": 1,
+      "page": 949,
+      "children": []
+    },
+    {
+      "title": "Selected Bibliography",
+      "number": null,
+      "level": 1,
+      "page": 981,
+      "children": []
+    },
+    {
+      "title": "Index",
+      "number": null,
+      "level": 1,
+      "page": 983,
+      "children": []
+    }
+  ]
+}
